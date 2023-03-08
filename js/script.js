@@ -6,7 +6,7 @@ let cardContainer = document.getElementById("card-container");
 
 let team1 = {
 
-    pic: "../img/wayne-barnett-founder-ceo.jpg",
+    pic: "img/wayne-barnett-founder-ceo.jpg",
 
     name: "Wayne Barnett",
 
@@ -15,7 +15,7 @@ let team1 = {
 
 let team2 = {
 
-    pic: "../img/angela-caroll-chief-editor.jpg",
+    pic: "img/angela-caroll-chief-editor.jpg",
 
     name: "Angela Caroll",
 
@@ -24,7 +24,7 @@ let team2 = {
 
 let team3 = {
 
-    pic: "../img/walter-gordon-office-manager.jpg",
+    pic: "img/walter-gordon-office-manager.jpg",
 
     name: "Walter Gordon",
 
@@ -33,7 +33,7 @@ let team3 = {
 
 let team4 = {
 
-    pic: "../img/angela-lopez-social-media-manager.jpg",
+    pic: "img/angela-lopez-social-media-manager.jpg",
 
     name: "Angela Lopez",
 
@@ -42,7 +42,7 @@ let team4 = {
 
 let team5 = {
 
-    pic: "../img/scott-estrada-developer.jpg",
+    pic: "img/scott-estrada-developer.jpg",
 
     name: "Scott Estrada",
 
@@ -51,7 +51,7 @@ let team5 = {
 
 let team6 = {
 
-    pic: "../img/barbara-ramos-graphic-designer.jpg",
+    pic: "img/barbara-ramos-graphic-designer.jpg",
 
     name: "Barbara Ramos",
 
